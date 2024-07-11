@@ -16,7 +16,7 @@ A heuristic risk scorer for cloud assets leveraging MITRE ATT&CK mappings and ta
 1. **Installation**: Clone the repository and follow setup instructions in the README file.
 2. **Configuration**: Use the synthetic data or modeul your own cloud assets to appropriate MITRE ATT&CK techniques and define scoring heuristics.
 3. **Running the Tool**: Execute the tool to generate and review risk scores for assets.
-4. **To Run the Tool**: streamlit run cspm-risk-scorer.py
+4. **To Run the Tool**: streamlit run risk-score-gen.py
 
 ## Conclusion
 The CSPM Risk Scorer PoC is an PoC tool for any organization looking to enhance its security posture by systematically assessing and prioritizing risks within their cloud environments. Utilize this tool to gain greater control over potential vulnerabilities, ensuring a more secure cloud infrastructure.
